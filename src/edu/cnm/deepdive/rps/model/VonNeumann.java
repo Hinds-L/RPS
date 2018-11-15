@@ -1,5 +1,8 @@
 package edu.cnm.deepdive.rps.model;
 
+import edu.cnm.deepdive.rps.model.Location;
+import edu.cnm.deepdive.rps.model.Neighborhood;
+
 public class VonNeumann implements Neighborhood {
 
 private final Location[] neighbors = {
